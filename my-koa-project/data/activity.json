@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Night Vibes Tsim Sha Tsui",
+    "date": "03 Feb 2024 - 31 Dec 2024",
+    "image": "/src/assets/Tism Sha Tsui.jpg",
+    "type": "Festivals"
+  },
+  {
+    "id": 2,
+    "name": "Timeless Diva: Anita Mui",
+    "date": "24 Dec 2023 - 02 Sep 2024",
+    "image": "/src/assets/anita-mui.jpg",
+    "type": "Concerts"
+  },
+  {
+    "id": 3,
+    "name": "YUAN MING YUAN – Art and Culture of an Imperial Garden-Palace",
+    "date": "20 Mar 2024 - 12 Aug 2024",
+    "image": "/src/assets/exhibition.jpg",
+    "type": "Exhibitions"
+  },
+  {
+    "id": 4,
+    "name": "Fun Ride with Big Beard - Dancing Poems 2.0 | Chinese Culture Festival 2024",
+    "date": "09 Aug 2024 - 18 Aug 2024",
+    "image": "/src/assets/hkdance.jpg",
+    "type": "Dance performances"
+  },
+  {
+    "id": 5,
+    "name": "Season Finale ",
+    "date": "14 Jul 2024 - 14 Jul 2024",
+    "image": "/src/assets/season.jpg",
+    "type": "Sports"
+  },
+  {
+    "id": 6,
+    "name": "Cantonese Opera Young Talent Showcase 2024/25 (Phase 1) ",
+    "date": "20 Jun 2024 - 30 Jun 2024",
+    "image": "/src/assets/opera.jpg",
+    "type": "Chinese Opera"
+  },
+  {
+    "id": 7,
+    "name": "Great Music 2024 ",
+    "date": "28 May 2024 - 16 Nov 2024",
+    "image": "/src/assets/mock1.jpg",
+    "type": "Concerts"
+  },
+  {
+    "id": 8,
+    "name": "HKTDC Food Expo 2024 ",
+    "date": "15 Aug 2024 - 19 Aug 2024",
+    "image": "/src/assets/mock2.jpg",
+    "type": "Food & Drink"
+  },
+  {
+    "id": 9,
+    "name": "MAMMA MIA! The Musical ",
+    "date": "20 Jun 2024 - 30 Jun 2024",
+    "image": "/src/assets/mock3.jpg",
+    "type": "Music Performances"
+  },
+  {
+    "id": 10,
+    "name": "Cantonese Opera Young Talent Showcase 2024/25 (Phase 1) ",
+    "date": "20 Jun 2024 - 30 Jun 2024",
+    "image": "/src/assets/mock4.jpg",
+    "type": "Chinese Opera"
+  }
+]

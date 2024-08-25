@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + Vue</title>
+    <!-- 1、导入mapbox依赖 -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.12.0/mapbox-gl.js"></script>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v2.12.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <!-- 2、导入mapbox-draw依赖 -->
+    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.2.2/mapbox-gl-draw.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-draw/v1.2.2/mapbox-gl-draw.css"
+      type="text/css"
+    />
+    <!-- 3、导入turf依赖 -->
+    <script src="https://lib.baomitu.com/jquery/2.2.4/jquery.js"></script>
+    <script src="https://lib.baomitu.com/Turf.js/latest/turf.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <script src="https://unpkg.com/@antv/l7"></script>
+
+    <!-- 街景 -->
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+<!--     <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC-cmA9rRVAtPJ1wEDdwtux3j9fb6lqLLo&callback=initialize&v=weekly"
+      defer
+    ></script> -->
+  </body>
+</html>
